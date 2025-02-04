@@ -4,7 +4,7 @@ seja maior que 5.
 Exemplo de entrada: [(2, 8), (4, 5, 6), (1, 2)]
 Exemplo de saída: [(2, 8), (4, 5, 6)]'''
 
-lista = [(2, 8), (4, 5, 6), (1, 2)]
+lista = [(2, 8), (4, 5, 6), (1, 2)] #receber de input? 
 
 def sum_tuple():
     conta = list(map(
